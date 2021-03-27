@@ -1,3 +1,3 @@
 # hello-Meng
 SMU
-202021058-맹진영-mjy5188@naver.com
+202021058-mjy5188@naver.com
